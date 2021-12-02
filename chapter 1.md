@@ -1,1 +1,1 @@
-## 1.ㄷ
+#### 1. interface 및 abstract
